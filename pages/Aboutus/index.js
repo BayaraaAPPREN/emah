@@ -4,9 +4,9 @@
 
 import Navbar from "../../components/Navbar";
 import {BsFlower2} from 'react-icons/bs'
-import AboutSec from "../../components/AboutSec";
-import About1sec from "../../components/About1sec";
-import Team from "../../components/Team";
+// import AboutSec from "../../components/AboutSec";
+// import About1sec from "../../components/About1sec";
+// import Team from "../../components/Team";
 
 
 export default function Aboutus(){
@@ -59,9 +59,9 @@ export default function Aboutus(){
                            </div>
                        </div>
                     </div>
-                    <About1sec/>
+                    {/* <About1sec/>
                     <AboutSec/>
-                    <Team/>
+                    <Team/> */}
                 </div>
             </div>
         </div>
